@@ -71,3 +71,5 @@ The Gantt chart below organizes the recommended activities from October 2026 thr
 [2] Google, "Kotlin for Android," *Android Developers*. [Online]. Available: https://developer.android.com/kotlin. [Accessed: Oct. 27, 2026].
 
 [3] Google, "Guide to app architecture," *Android Developers*. [Online]. Available: https://developer.android.com/topic/architecture. [Accessed: Oct. 27, 2026].
+
+[word count: 688]
