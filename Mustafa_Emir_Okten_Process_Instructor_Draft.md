@@ -36,7 +36,7 @@ Develop user interface and app design skills alongside programming. Mobile appli
 
 Develop the skills needed to turn individual screens and features into complete applications. Learn how to work with APIs, manage and store data, and process user input. Become familiar with how mobile applications are organized. Google's Android architecture guidance recommends separation of concerns, which involves organizing code according to its responsibilities. For example, separating user interface code from data management makes applications easier to test and maintain [3].
 
-Make testing and debugging part of your normal development process. Instead of waiting until an application is complete, test features as you build them. Identifying problems early makes them easier to isolate and fix before your applications become more complex. :)
+Make testing and debugging part of your normal development process. Instead of waiting until an application is complete, test features as you build them. Identifying problems early makes them easier to isolate and fix before your applications become more complex.
 
 ## Portfolio Development
 
