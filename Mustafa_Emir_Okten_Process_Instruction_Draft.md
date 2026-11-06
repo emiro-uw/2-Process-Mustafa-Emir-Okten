@@ -28,7 +28,7 @@ This report outlines the best practices you can follow before graduation to prep
 
 ## Mobile Development Fundamentals
 
-Start by choosing a mobile platform and developing experience with its primary tools. For iOS development, focus on Swift, SwiftUI, and Xcode. Apple's Develop in Swift tutorials introduce developers to Swift, SwiftUI, Xcode, app design, data modeling, testing, and debugging [1]. For Android development, focus on Kotlin and Android Studio. Google's Android Developers documentation identifies Kotlin as a programming language used for Android development and provides resources for developing Android applications with Kotlin [2]. Focusing on one platform first allows you to develop a stronger understanding of mobile development before expanding into another platform.
+Start by choosing a mobile platform and gaining experience with its primary tools. For iOS development, focus on Swift, SwiftUI, and Xcode. Apple's Develop in Swift tutorials introduce developers to Swift, SwiftUI, Xcode, app design, data modeling, testing, and debugging [1]. For Android development, focus on Kotlin and Android Studio. Google's Android Developers documentation identifies Kotlin as a programming language used for Android development and provides resources for developing Android applications with Kotlin [2]. Focusing on one platform first allows you to develop a stronger understanding of mobile development before expanding into another platform.
 
 Develop user interface and app design skills alongside programming. Mobile applications depend on clear layouts and usable interactions, so practice turning simple ideas into interfaces that are consistent and easy to navigate. Treat design as part of the development process rather than something that is added after an application is functional.
 
@@ -62,14 +62,14 @@ The Gantt chart below organizes the recommended activities from October 2026 thr
 
 **Figure 1. Mobile App Developer Career Preparation Timeline**
 
-![Mobile App Developer Career Preparation Plan showing technical skills development, mobile development skills, portfolio development, experience and networking, and career preparation from October 2026 through June 2027.](mobile-app-developer-career-preparation.png)
+![Gantt chart showing Mobile Development Fundamentals, Application Development Practices, Portfolio Development, Experience and Networking, and Career Preparation from October 2026 through June 2027.](mobile-app-developer-career-preparation.png)
 
 ## References
 
-[1] Apple, "Develop in Swift Tutorials," *Apple Developer Documentation*. [Online]. Available: https://developer.apple.com/tutorials/develop-in-swift. [Accessed: Oct. 27, 2026].
+[1] Apple, "Develop in Swift Tutorials," Apple Developer Documentation, n.d. [Online]. Available: https://developer.apple.com/tutorials/develop-in-swift. [Accessed Oct. 27, 2026].
 
-[2] Google, "Kotlin for Android," *Android Developers*. [Online]. Available: https://developer.android.com/kotlin. [Accessed: Oct. 27, 2026].
+[2] Google, "Kotlin for Android," Android Developers, n.d. [Online]. Available: https://developer.android.com/kotlin. [Accessed Oct. 27, 2026].
 
-[3] Google, "Guide to app architecture," *Android Developers*. [Online]. Available: https://developer.android.com/topic/architecture. [Accessed: Oct. 27, 2026].
+[3] Google, "Guide to app architecture," Android Developers, 5 October 2026. [Online]. Available: https://developer.android.com/topic/architecture. [Accessed Oct. 27, 2026].
 
 [word count: 688]
