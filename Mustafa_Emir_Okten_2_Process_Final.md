@@ -44,7 +44,8 @@ Use Jetpack Compose to create consistent layouts, interactive components, and na
 
 Separating user interface code from data management makes mobile applications easier to test and maintain [^2]. Employers value this practice because professional applications require ongoing maintenance and feature development without disrupting existing functionality.
 
-Organize your Android application into a UI layer and a data layer. Use Jetpack Compose and ViewModel to manage the interface and its state, Retrofit to retrieve data from REST APIs, and Room to manage local data storage. Follow the architecture illustrated in Figure 1 when organizing your application.
+Organize your Android application into a UI layer and a data layer. Follow the architecture illustrated in Figure 1 to structure your application components and manage the flow of 
+data between them.
 
 **Figure 1. Android Application Architecture and Data Flow**
 
@@ -98,7 +99,7 @@ Atay explains that entry-level candidates stand out when they can demonstrate co
 
 Practice demonstrating your completed Android applications. Explain how data moves between the UI and data layers, how your application handles unsuccessful API requests, and what improvements you would make to its architecture.
 
-[word count: 688]
+[word count: 671]
 
 ## References
 
