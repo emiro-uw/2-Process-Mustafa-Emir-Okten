@@ -26,11 +26,19 @@
 
 Although your CSSE coursework at UW Bothell provides a strong foundation in software development, preparing for a career as a mobile app developer requires additional experience with platform-specific development tools, application architecture, and mobile user interface design. Developing these skills before graduation allows you to build functional mobile applications and demonstrate your technical abilities to potential employers. The purpose of this report is to outline the best practices you can follow before graduation to prepare for a career as a mobile app developer.
 
-## Mobile Development Fundamentals
+## Developing Mobile App Fundamentals
 
-Start by choosing a mobile platform and gaining experience with its primary tools. For iOS development, focus on Swift, SwiftUI, and Xcode. Apple's Develop in Swift tutorials introduce developers to Swift, SwiftUI, Xcode, app design, data modeling, testing, and debugging [1]. For Android development, focus on Kotlin and Android Studio. Google's Android Developers documentation identifies Kotlin as a programming language used for Android development and provides resources for developing Android applications with Kotlin [2]. Focusing on one platform first allows you to develop a stronger understanding of mobile development before expanding into another platform.
+### Learning Android Development Tools
 
-Develop user interface and app design skills alongside programming. Mobile applications depend on clear layouts and usable interactions, so practice turning simple ideas into interfaces that are consistent and easy to navigate. Treat design as part of the development process rather than something that is added after an application is functional.
+Focusing on one mobile platform first allows you to develop a stronger understanding of mobile development before expanding into another platform. Employers value practical experience with platform-specific tools because it demonstrates your ability to develop applications beyond general programming assignments.
+
+Begin with Android development using Kotlin and Android Studio. Follow Google's Android development tutorials to practice creating screens, handling user input, and navigating between screens [2].
+
+### Developing User Interface Design Skills
+
+Mobile applications depend on clear layouts and usable interactions. Employers value developers who can build applications that are both functional and easy to navigate.
+
+Use Jetpack Compose to create consistent layouts, interactive components, and navigation between screens. Incorporate interface design throughout the development process rather than after the application is functional.
 
 ## Application Development Practices
 
