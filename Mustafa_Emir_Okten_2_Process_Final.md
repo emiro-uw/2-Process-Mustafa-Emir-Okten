@@ -98,7 +98,7 @@ Atay explains that entry-level candidates stand out when they can demonstrate co
 
 Practice demonstrating your completed Android applications. Explain how data moves between the UI and data layers, how your application handles unsuccessful API requests, and what improvements you would make to its architecture.
 
-[word count: 689]
+[word count: 688]
 
 ## References
 
