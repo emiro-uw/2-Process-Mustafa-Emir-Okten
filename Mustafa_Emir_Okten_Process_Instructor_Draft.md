@@ -98,6 +98,8 @@ Atay explains that entry-level candidates stand out when they can demonstrate co
 
 Practice demonstrating your completed Android applications. Explain how data moves between the UI and data layers, how your application handles unsuccessful API requests, and what improvements you would make to its architecture.
 
+[word count: 656]
+
 ## References
 
 [^1]: Google, "Kotlin for Android," *Android Developers*, n.d. [Online]. Available: https://developer.android.com/kotlin. [Accessed Oct. 27, 2026].
@@ -105,5 +107,3 @@ Practice demonstrating your completed Android applications. Explain how data mov
 [^2]: Google, "Guide to app architecture," *Android Developers*, 5 October 2026. [Online]. Available: https://developer.android.com/topic/architecture. [Accessed Oct. 27, 2026].
 
 [^3]: Atay, Gürkan. Personal interview. 17 November 2026.
-
-[word count: 656]
