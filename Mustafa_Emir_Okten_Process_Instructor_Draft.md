@@ -60,9 +60,9 @@ Begin practicing technical interviews before your main application period. Revie
 
 The Gantt chart below organizes the recommended activities from October 2026 through June 2027. Mobile Development Fundamentals begins first, followed by Application Development Practices and Portfolio Development. Experience and Networking overlaps with these activities, while Career Preparation gradually shifts toward technical interviews and job applications as graduation approaches. The overlapping schedule allows you to develop skills, gain experience, and prepare for employment alongside your coursework.
 
-**Figure 1. Mobile App Developer Career Preparation Timeline**
+**Figure 1. Android Application Architecture and Data Flow**
 
-![Gantt chart showing Mobile Development Fundamentals, Application Development Practices, Portfolio Development, Experience and Networking, and Career Preparation from October 2026 through June 2027.](mobile-app-developer-career-preparation.png)
+![Android Application Architecture](android-application-architecture.png)
 
 ## References
 
