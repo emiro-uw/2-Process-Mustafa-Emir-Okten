@@ -24,7 +24,7 @@
 
 ## Purpose
 
-This report outlines the best practices you can follow before graduation to prepare for a career as a mobile app developer. Although a computer science degree provides a strong foundation, academic coursework alone may not provide all the skills and experience needed to enter the field. To bridge this gap, the report explores Mobile Development Fundamentals, Application Development Practices, Portfolio Development, Experience and Networking, and Career Preparation. A Preparation Timeline illustrates how these activities can be organized throughout your remaining time at UW Bothell. Following these practices helps you apply your CSSE coursework to real-world development, demonstrate your abilities to potential employers, and build the qualifications needed to pursue a career in mobile app development.
+Although your CSSE coursework at UW Bothell provides a strong foundation in software development, preparing for a career as a mobile app developer requires additional experience with platform-specific development tools, application architecture, and mobile user interface design. Developing these skills before graduation allows you to build functional mobile applications and demonstrate your technical abilities to potential employers. The purpose of this report is to outline the best practices you can follow before graduation to prepare for a career as a mobile app developer.
 
 ## Mobile Development Fundamentals
 
