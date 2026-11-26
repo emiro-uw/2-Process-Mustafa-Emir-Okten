@@ -4,11 +4,11 @@
 
 *© Image from Brain Technosys, “Considerations to Make When Choosing a Mobile Application Development Company.”*
 
-Prepared for: Husky student pursuing a job as a mobile app developer
+**Prepared for:** Husky student pursuing a job as a mobile app developer
 
-Prepared by: Mustafa Emir Okten
+**Prepared by:** Mustafa Emir Okten
 
-Date: November 5, 2026
+**Date:** November 26, 2026
 
 ## Table of Contents
 
