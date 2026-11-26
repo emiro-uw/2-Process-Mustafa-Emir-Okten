@@ -22,13 +22,13 @@
 
 ## Purpose
 
-Although your CSSE coursework at UW Bothell provides a strong foundation in software development, preparing for a career as a mobile app developer requires additional experience with platform-specific development tools, application architecture, and mobile user interface design. Developing these skills before graduation allows you to build functional mobile applications and demonstrate your technical abilities to potential employers. The purpose of this report is to outline the best practices you can follow before graduation to prepare for a career as a mobile app developer.
+Although your CSSE coursework at UW Bothell provides a strong foundation in software development, preparing for a career as a mobile app developer requires additional experience with platform-specific development tools, application architecture, and mobile user interface design. The purpose of this report is to outline the best practices you can follow before graduation to prepare for a career as a mobile app developer.
 
 ## Developing Mobile App Fundamentals
 
 ### Learning Android Development Tools
 
-Focusing on one mobile platform first allows you to develop a stronger understanding of mobile development before expanding into another platform. Employers value practical experience with platform-specific tools because it demonstrates your ability to develop applications beyond general programming assignments.
+Focusing on one mobile platform first allows you to develop a stronger understanding of mobile development. Employers value practical experience with platform-specific tools because it demonstrates your ability to develop applications beyond general programming assignments.
 
 Begin with Android development using Kotlin and Android Studio. Follow Google's Android development tutorials to practice creating screens, handling user input, and navigating between screens [^1].
 
@@ -98,7 +98,7 @@ Atay explains that entry-level candidates stand out when they can demonstrate co
 
 Practice demonstrating your completed Android applications. Explain how data moves between the UI and data layers, how your application handles unsuccessful API requests, and what improvements you would make to its architecture.
 
-[word count: 656]
+[word count: 689]
 
 ## References
 
