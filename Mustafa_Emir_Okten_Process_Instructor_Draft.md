@@ -18,7 +18,6 @@
 - [Portfolio Development](#portfolio-development)
 - [Experience and Networking](#experience-and-networking)
 - [Career Preparation](#career-preparation)
-- [Preparation Timeline](#preparation-timeline)
 - [References](#references)
 
 
@@ -40,11 +39,23 @@ Mobile applications depend on clear layouts and usable interactions. Employers v
 
 Use Jetpack Compose to create consistent layouts, interactive components, and navigation between screens. Incorporate interface design throughout the development process rather than after the application is functional.
 
-## Application Development Practices
+## Applying Mobile Development Practices
 
-Develop the skills needed to turn individual screens and features into complete applications. Learn how to work with APIs, manage and store data, and process user input. Become familiar with how mobile applications are organized. Google's Android architecture guidance recommends separation of concerns, which involves organizing code according to its responsibilities. For example, separating user interface code from data management makes applications easier to test and maintain [3].
+### Implementing Application Architecture
 
-Make testing and debugging part of your normal development process. Instead of waiting until an application is complete, test features as you build them. Identifying problems early makes them easier to isolate and fix before your applications become more complex.
+Separating user interface code from data management makes mobile applications easier to test and maintain [3]. Employers value this practice because professional applications require ongoing maintenance and feature development without disrupting existing functionality.
+
+Organize your Android application into a UI layer and a data layer. Use Jetpack Compose and ViewModel to manage the interface and its state, Retrofit to retrieve data from REST APIs, and Room to manage local data storage. Follow the architecture illustrated in Figure 1 when organizing your application.
+
+**Figure 1. Android Application Architecture and Data Flow**
+
+![Android Application Architecture](android-application-architecture.png)
+
+### Testing and Debugging Applications
+
+Identifying problems early makes them easier to isolate and fix before applications become more complex. Employers value developers who can deliver reliable applications and prevent existing features from breaking.
+
+Test each feature as you build it. Use the Android Studio emulator to verify user interactions and Logcat to identify errors. Test unsuccessful API requests and invalid user input alongside successful interactions.
 
 ## Portfolio Development
 
@@ -63,14 +74,6 @@ Use these opportunities to meet other developers and learn how teams divide resp
 Update your resume and LinkedIn profile as you complete projects and gain experience instead of waiting until graduation. Emphasize relevant mobile development skills and completed projects that demonstrate what you can contribute.
 
 Begin practicing technical interviews before your main application period. Review programming fundamentals, data structures, algorithms, debugging, and common software development questions. As graduation approaches, begin applying for mobile developer positions and related software engineering roles while continuing to improve your portfolio.
-
-## Preparation Timeline
-
-The Gantt chart below organizes the recommended activities from October 2026 through June 2027. Mobile Development Fundamentals begins first, followed by Application Development Practices and Portfolio Development. Experience and Networking overlaps with these activities, while Career Preparation gradually shifts toward technical interviews and job applications as graduation approaches. The overlapping schedule allows you to develop skills, gain experience, and prepare for employment alongside your coursework.
-
-**Figure 1. Android Application Architecture and Data Flow**
-
-![Android Application Architecture](android-application-architecture.png)
 
 ## References
 
