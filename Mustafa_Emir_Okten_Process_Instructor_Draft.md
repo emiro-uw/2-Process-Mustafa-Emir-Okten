@@ -85,11 +85,19 @@ Collaborative development requires communicating technical decisions, dividing r
 
 Participate in university hackathons and contribute to a shared GitHub repository using branches, pull requests, and code reviews. Connect with participating developers to maintain professional relationships beyond the event.
 
-## Career Preparation
+## Preparing for Mobile Development Careers
 
-Update your resume and LinkedIn profile as you complete projects and gain experience instead of waiting until graduation. Emphasize relevant mobile development skills and completed projects that demonstrate what you can contribute.
+### Tailoring Job Applications
 
-Begin practicing technical interviews before your main application period. Review programming fundamentals, data structures, algorithms, debugging, and common software development questions. As graduation approaches, begin applying for mobile developer positions and related software engineering roles while continuing to improve your portfolio.
+Connecting your project experience to specific job requirements helps employers recognize how your skills align with the position.
+
+Identify Android developer positions that require Kotlin, Jetpack Compose, and REST API integration. Highlight relevant features from your completed applications in your resume and include links to their GitHub repositories.
+
+### Preparing for Technical Interviews
+
+Mobile development interviews require you to explain technical decisions and demonstrate your understanding of application functionality.
+
+Practice demonstrating your completed Android applications. Explain how data moves between the UI and data layers, how your application handles unsuccessful API requests, and why you selected its architecture.
 
 ## References
 
