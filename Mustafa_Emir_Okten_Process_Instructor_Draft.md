@@ -81,13 +81,13 @@ Publish both applications to GitHub. Include README files containing the applica
 
 ### Pursuing Mobile Development Internships
 
-Internships provide experience working with existing codebases, development teams, and professional software development practices. This experience helps demonstrate your ability to contribute to a professional development environment.
+Atay emphasizes that internships provide experience with professional development teams, existing codebases, requirements management, and software testing [4]. Employers value this experience because it demonstrates your ability to contribute to an established development team.
 
 Search Handshake for Android development internships. Prioritize positions involving Kotlin, Android Studio, and mobile application development. Include your completed Android projects when applying.
 
 ### Building Professional Connections
 
-Collaborative development requires communicating technical decisions, dividing responsibilities, and responding to feedback.
+Employers value developers who communicate technical decisions clearly, collaborate with teammates, and respond constructively to feedback [4].
 
 Participate in university hackathons and contribute to a shared GitHub repository using branches, pull requests, and code reviews. Connect with participating developers to maintain professional relationships beyond the event.
 
