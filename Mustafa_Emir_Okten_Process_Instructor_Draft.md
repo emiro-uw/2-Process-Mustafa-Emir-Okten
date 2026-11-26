@@ -107,10 +107,10 @@ Practice demonstrating your completed Android applications. Explain how data mov
 
 ## References
 
-[1] Apple, "Develop in Swift Tutorials," Apple Developer Documentation, n.d. [Online]. Available: https://developer.apple.com/tutorials/develop-in-swift. [Accessed Oct. 27, 2026].
+[^1]: Google, "Kotlin for Android," *Android Developers*, n.d. [Online]. Available: https://developer.android.com/kotlin. [Accessed Oct. 27, 2026].
 
-[2] Google, "Kotlin for Android," Android Developers, n.d. [Online]. Available: https://developer.android.com/kotlin. [Accessed Oct. 27, 2026].
+[^2]: Google, "Guide to app architecture," *Android Developers*, 5 October 2026. [Online]. Available: https://developer.android.com/topic/architecture. [Accessed Oct. 27, 2026].
 
-[3] Google, "Guide to app architecture," Android Developers, 5 October 2026. [Online]. Available: https://developer.android.com/topic/architecture. [Accessed Oct. 27, 2026].
+[^3]: Atay, Gürkan. Personal interview. 17 November 2026.
 
 [word count: 688]
