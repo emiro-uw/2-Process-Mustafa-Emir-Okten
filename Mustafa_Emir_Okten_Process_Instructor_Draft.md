@@ -30,7 +30,7 @@ Although your CSSE coursework at UW Bothell provides a strong foundation in soft
 
 Focusing on one mobile platform first allows you to develop a stronger understanding of mobile development before expanding into another platform. Employers value practical experience with platform-specific tools because it demonstrates your ability to develop applications beyond general programming assignments.
 
-Begin with Android development using Kotlin and Android Studio. Follow Google's Android development tutorials to practice creating screens, handling user input, and navigating between screens [2].
+Begin with Android development using Kotlin and Android Studio. Follow Google's Android development tutorials to practice creating screens, handling user input, and navigating between screens [^1].
 
 ### Developing User Interface Design Skills
 
@@ -42,7 +42,7 @@ Use Jetpack Compose to create consistent layouts, interactive components, and na
 
 ### Implementing Application Architecture
 
-Separating user interface code from data management makes mobile applications easier to test and maintain [3]. Employers value this practice because professional applications require ongoing maintenance and feature development without disrupting existing functionality.
+Separating user interface code from data management makes mobile applications easier to test and maintain [^2]. Employers value this practice because professional applications require ongoing maintenance and feature development without disrupting existing functionality.
 
 Organize your Android application into a UI layer and a data layer. Use Jetpack Compose and ViewModel to manage the interface and its state, Retrofit to retrieve data from REST APIs, and Room to manage local data storage. Follow the architecture illustrated in Figure 1 when organizing your application.
 
@@ -60,7 +60,7 @@ Test each feature as you build it. Use the Android Studio emulator to verify use
 
 ### Building Mobile Applications
 
-Gürkan Atay, a staff software engineer at OfferUp, recommends developing a complete application that solves a real problem and goes beyond an initial working demo [4]. Completed applications demonstrate your ability to apply technical knowledge independently.
+Gürkan Atay, a staff software engineer at OfferUp, recommends developing a complete application that solves a real problem and goes beyond an initial working demo [^3]. Completed applications demonstrate your ability to apply technical knowledge independently.
 
 Build a task management application using Kotlin and Jetpack Compose. After completing it, develop a recipe application that retrieves recipes from a REST API and stores saved recipes locally. Test the application and gather feedback from users.
 
@@ -70,23 +70,17 @@ Well-documented projects allow employers to evaluate your technical abilities, d
 
 Publish both applications to GitHub. Include README files containing each application's purpose, technologies, major features, architecture, setup instructions, and screenshots.
 
-### Documenting Development Projects
-
-Well-documented projects allow employers to evaluate your technical abilities, development decisions, and contributions without examining the entire codebase.
-
-Publish both applications to GitHub. Include README files containing the application's purpose, technologies, major features, architecture, setup instructions, and screenshots of the working application.
-
 ## Gaining Professional Experience
 
 ### Pursuing Mobile Development Internships
 
-Atay emphasizes that internships provide experience with professional development teams, existing codebases, requirements management, and software testing [4]. Employers value this experience because it demonstrates your ability to contribute to an established development team.
+Atay emphasizes that internships provide experience with professional development teams, existing codebases, requirements management, and software testing [^3]. Employers value this experience because it demonstrates your ability to contribute to an established development team.
 
 Search Handshake for Android development internships. Prioritize positions involving Kotlin, Android Studio, and mobile application development. Include your completed Android projects when applying.
 
 ### Building Professional Connections
 
-Employers value developers who communicate technical decisions clearly, collaborate with teammates, and respond constructively to feedback [4].
+Employers value developers who communicate technical decisions clearly, collaborate with teammates, and respond constructively to feedback [^3].
 
 Participate in university hackathons and contribute to a shared GitHub repository using branches, pull requests, and code reviews. Connect with participating developers to maintain professional relationships beyond the event.
 
@@ -100,7 +94,7 @@ Identify Android developer positions that require Kotlin, Jetpack Compose, and R
 
 ### Preparing for Technical Interviews
 
-Atay explains that entry-level candidates stand out when they can demonstrate completed projects, explain their technical decisions, and discuss how they tested their applications [4].
+Atay explains that entry-level candidates stand out when they can demonstrate completed projects, explain their technical decisions, and discuss how they tested their applications [^3].
 
 Practice demonstrating your completed Android applications. Explain how data moves between the UI and data layers, how your application handles unsuccessful API requests, and what improvements you would make to its architecture.
 
@@ -112,4 +106,4 @@ Practice demonstrating your completed Android applications. Explain how data mov
 
 [^3]: Atay, Gürkan. Personal interview. 17 November 2026.
 
-[word count: 688]
+[word count: 656]
