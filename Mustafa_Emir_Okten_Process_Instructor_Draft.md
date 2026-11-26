@@ -57,11 +57,19 @@ Identifying problems early makes them easier to isolate and fix before applicati
 
 Test each feature as you build it. Use the Android Studio emulator to verify user interactions and Logcat to identify errors. Test unsuccessful API requests and invalid user input alongside successful interactions.
 
-## Portfolio Development
+## Developing a Professional Portfolio
 
-Begin by building a smaller mobile application that allows you to practice the fundamentals of your chosen platform. After completing that project, create a more advanced application that demonstrates additional skills. The second application could include features such as API integration, persistent data, or a more complex user interface.
+### Building Mobile Applications
 
-Publish your strongest projects to GitHub and include clear README files that explain each application's purpose, technologies, major features, and setup process. A portfolio provides examples of what you can actually build instead of relying only on a list of programming languages or completed coursework.
+Completed mobile applications provide employers with evidence of your ability to apply technical knowledge beyond academic assignments. Developing progressively more complex applications demonstrates your ability to handle different development challenges.
+
+Build a task management application using Kotlin and Jetpack Compose to practice mobile development fundamentals. After completing it, develop a recipe application that retrieves recipes from a REST API and stores saved recipes locally.
+
+### Documenting Development Projects
+
+Well-documented projects allow employers to evaluate your technical abilities, development decisions, and contributions without examining the entire codebase.
+
+Publish both applications to GitHub. Include README files containing the application's purpose, technologies, major features, architecture, setup instructions, and screenshots of the working application.
 
 ## Experience and Networking
 
