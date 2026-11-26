@@ -71,11 +71,19 @@ Well-documented projects allow employers to evaluate your technical abilities, d
 
 Publish both applications to GitHub. Include README files containing the application's purpose, technologies, major features, architecture, setup instructions, and screenshots of the working application.
 
-## Experience and Networking
+## Gaining Professional Experience
 
-Apply for internships while continuing to develop your technical skills and portfolio. You should also participate in hackathons or team projects where you can practice collaboration, version control, problem solving, and communication. These experiences provide opportunities to apply technical knowledge while working with other developers.
+### Pursuing Mobile Development Internships
 
-Use these opportunities to meet other developers and learn how teams divide responsibilities and respond to feedback. Software development frequently requires collaboration, so being able to communicate technical decisions and contribute to a shared project can strengthen your preparation for professional development work.
+Internships provide experience working with existing codebases, development teams, and professional software development practices. This experience helps demonstrate your ability to contribute to a professional development environment.
+
+Search Handshake for Android development internships. Prioritize positions involving Kotlin, Android Studio, and mobile application development. Include your completed Android projects when applying.
+
+### Building Professional Connections
+
+Collaborative development requires communicating technical decisions, dividing responsibilities, and responding to feedback.
+
+Participate in university hackathons and contribute to a shared GitHub repository using branches, pull requests, and code reviews. Connect with participating developers to maintain professional relationships beyond the event.
 
 ## Career Preparation
 
