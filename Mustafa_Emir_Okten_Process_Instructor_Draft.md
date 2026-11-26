@@ -101,9 +101,9 @@ Identify Android developer positions that require Kotlin, Jetpack Compose, and R
 
 ### Preparing for Technical Interviews
 
-Mobile development interviews require you to explain technical decisions and demonstrate your understanding of application functionality.
+Atay explains that entry-level candidates stand out when they can demonstrate completed projects, explain their technical decisions, and discuss how they tested their applications [4].
 
-Practice demonstrating your completed Android applications. Explain how data moves between the UI and data layers, how your application handles unsuccessful API requests, and why you selected its architecture.
+Practice demonstrating your completed Android applications. Explain how data moves between the UI and data layers, how your application handles unsuccessful API requests, and what improvements you would make to its architecture.
 
 ## References
 
