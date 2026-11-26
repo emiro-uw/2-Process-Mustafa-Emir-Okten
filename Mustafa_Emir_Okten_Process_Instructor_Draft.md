@@ -61,9 +61,15 @@ Test each feature as you build it. Use the Android Studio emulator to verify use
 
 ### Building Mobile Applications
 
-Completed mobile applications provide employers with evidence of your ability to apply technical knowledge beyond academic assignments. Developing progressively more complex applications demonstrates your ability to handle different development challenges.
+Gürkan Atay, a staff software engineer at OfferUp, recommends developing a complete application that solves a real problem and goes beyond an initial working demo [4]. Completed applications demonstrate your ability to apply technical knowledge independently.
 
-Build a task management application using Kotlin and Jetpack Compose to practice mobile development fundamentals. After completing it, develop a recipe application that retrieves recipes from a REST API and stores saved recipes locally.
+Build a task management application using Kotlin and Jetpack Compose. After completing it, develop a recipe application that retrieves recipes from a REST API and stores saved recipes locally. Test the application and gather feedback from users.
+
+### Documenting Development Projects
+
+Well-documented projects allow employers to evaluate your technical abilities, development decisions, and contributions without examining the entire codebase.
+
+Publish both applications to GitHub. Include README files containing each application's purpose, technologies, major features, architecture, setup instructions, and screenshots.
 
 ### Documenting Development Projects
 
