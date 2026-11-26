@@ -13,13 +13,12 @@
 ## Table of Contents
 
 - [Purpose](#purpose)
-- [Mobile Development Fundamentals](#mobile-development-fundamentals)
-- [Application Development Practices](#application-development-practices)
-- [Portfolio Development](#portfolio-development)
-- [Experience and Networking](#experience-and-networking)
-- [Career Preparation](#career-preparation)
+- [Developing Mobile App Fundamentals](#developing-mobile-app-fundamentals)
+- [Applying Mobile Development Practices](#applying-mobile-development-practices)
+- [Developing a Professional Portfolio](#developing-a-professional-portfolio)
+- [Gaining Professional Experience](#gaining-professional-experience)
+- [Preparing for Mobile Development Careers](#preparing-for-mobile-development-careers)
 - [References](#references)
-
 
 ## Purpose
 
